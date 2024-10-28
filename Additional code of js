@@ -1,1 +1,4 @@
 const num1 = prompt("Enter a first integer: ");
+
+const num2 = prompt("Enter a first integer: ");
+
